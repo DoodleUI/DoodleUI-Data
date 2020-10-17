@@ -1,0 +1,16 @@
+avatar
+back
+cancel
+checkbox
+dropDown
+forward
+leftarrow
+menu
+play
+plus
+search
+settings
+share
+sliders
+squiggle
+switch
